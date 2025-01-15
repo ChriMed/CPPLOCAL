@@ -10,7 +10,7 @@ SearchandSortingAlgorithms.cpp
   Program that deals with search algorithms such as binary, and linear, along with sorting algorithms like dualsort and selectionsort.
   Tracks and compares the efficiency of these algorithms.
 
-DualsortRainfall.cpp
+DualsortRainfall.cpp 
     -seasonal_rainfal_data.txt
   Program deals with ifstream and dualsort algorithms, 365 data entries are taken and sorted into months, where we then calculate the average of rainfall and sort them.
 
